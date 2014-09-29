@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Troops\Races\Race.cs">
+    <Files>
+      <File FileName="Assets\Libraries\RaceLibrary.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Utility\ScriptableObjectUtility.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Utility\ScriptableObjectAsset.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Troops\Races\Race.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\Troops\Races\DwarfRace.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
